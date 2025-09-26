@@ -1,4 +1,4 @@
-﻿# Giorgos Yfantis — Bio
+﻿# George Yfantis — Bio
 
 > EN: Results-driven Digital Marketing & Growth Leader with 15+ years of experience across agency and in-house roles. Proven track record of scaling digital operations, leading high-performing teams, and delivering measurable impact - including a 50% YoY increase in company revenue, 40% reduction in client response time, and 55% improvement in team productivity. Data-driven leadership, strategic foresight, and scalable marketing systems.
 >
@@ -50,3 +50,4 @@
 - **Skills (LinkedIn)**: https://www.linkedin.com/in/giorgosyfantis/details/skills/
 - **Skills (Markdown)**: https://www.giorgosyfantis.gr/skills.md  
 - **Experience (LinkedIn)**: https://www.linkedin.com/in/giorgosyfantis/details/experience/
+
