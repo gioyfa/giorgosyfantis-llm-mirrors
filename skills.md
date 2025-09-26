@@ -1,4 +1,4 @@
-﻿# Skills — Giorgos Yfantis
+﻿# Skills — George Yfantis
 > EN: Role-relevant skills grouped by domain, aligned with CV.  
 > GR: Δεξιότητες σχετικές με τον ρόλο, ομαδοποιημένες και ευθυγραμμισμένες με το CV.
 
@@ -31,3 +31,4 @@ Advanced Product Marketing · Agile Marketing Foundations · Technical Product M
 - Certifications wallet: https://www.credential.net/profile/georgeyfantis/wallet
 
 _Last updated: 2025-09-25_
+
