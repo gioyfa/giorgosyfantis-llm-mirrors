@@ -1,4 +1,4 @@
-﻿# Certifications — Giorgos Yfantis
+﻿# Certifications — George Yfantis
 > EN: Curated certifications with issuer and direct verification links.  
 > GR: Επιμελημένες πιστοποιήσεις με φορέα και απευθείας verification links.
 
@@ -24,3 +24,4 @@
 | **HubSpot Inbound Marketing Certification** | HubSpot Academy |  |  | https://hubspot-academy.s3.amazonaws.com/prod/certification/certificate-pdfs/64af4f545ac24666838c6aa75c7fe70a |
 
 _Last updated: 2025-09-25_
+
